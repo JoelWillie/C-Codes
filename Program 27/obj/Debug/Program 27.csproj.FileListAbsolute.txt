@@ -1,0 +1,7 @@
+C:\Users\User\Documents\J.W C# CLASS ACTIVITIES\Program 27\bin\Debug\Program 27.exe.config
+C:\Users\User\Documents\J.W C# CLASS ACTIVITIES\Program 27\bin\Debug\Program 27.exe
+C:\Users\User\Documents\J.W C# CLASS ACTIVITIES\Program 27\bin\Debug\Program 27.pdb
+C:\Users\User\Documents\J.W C# CLASS ACTIVITIES\Program 27\obj\Debug\Program 27.csproj.AssemblyReference.cache
+C:\Users\User\Documents\J.W C# CLASS ACTIVITIES\Program 27\obj\Debug\Program 27.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\J.W C# CLASS ACTIVITIES\Program 27\obj\Debug\Program 27.exe
+C:\Users\User\Documents\J.W C# CLASS ACTIVITIES\Program 27\obj\Debug\Program 27.pdb
