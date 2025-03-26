@@ -1,6 +1,6 @@
-# README: Overview of C# Programming Assignments (Programs 1-30)
+# Overview of C# Programming Assignments (Programs 1-30)
 
-This document provides an overview of 30 C# programming tasks completed as part of class assignments. The programs are divided into two main categories: **Procedural Programming (Pseudocode Conversions)** and **Object-Oriented Programming (OOP) Assignments**. Each program adheres to basic C# concepts covered in class, such as variables, input/output, conditionals, loops, classes, properties, inheritance, constructors, and destructors. All code is intended to be handwritten in a journal, following assignment instructions to avoid AI tools or external resources.
+This repository provides an overview of 30 C# programming tasks completed as part of class assignments. The programs are divided into three main categories: **The First Section -  Intermediate Program**, **The Second Section - OOP/Object-Orientated Programs** and lastly **The Third Section - The OOP Inheritance Programs**. Each program adheres to basic C# concepts covered in class, such as variables, input/output, conditionals, loops, classes, properties, inheritance, constructors, and destructors. All code is intended to be handwritten in a journal, following assignment instructions to avoid AI tools or external resources.
 
 ---
 
@@ -107,7 +107,8 @@ Below is the complete list of all 30 programs, arranged sequentially from 1 to 3
     - **Features**: Uses inheritance and methods for cost computation.
 
 ---
-
+## Note
+- **Please use search feature to find the program you are looking for.**
 ## General Notes
 - **Environment**: All programs are console applications written in C#.
 - **Syntax**: Uses basic constructs like `Console.WriteLine`, `Console.ReadLine`, `int.Parse`, `double.Parse`, if-statements, loops, classes, properties, and inheritance.
