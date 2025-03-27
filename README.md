@@ -8,7 +8,7 @@ This repository provides an overview of 30 C# programming tasks completed as par
 
 Below is the complete list of all 30 programs, arranged sequentially from 1 to 30, with brief descriptions for each.
 
-1. **Program 3**: Sums two user-input integers.  
+1. **Program 1**: Sums two user-input integers.  
    - Prompts the user for two integers and displays their sum.
 
 2. **Program 2**: Sums three user-input integers.  
